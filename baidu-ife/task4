@@ -1,0 +1,41 @@
+<head>
+  <title>task4</title>
+  <meta charset="utf-8">
+  <style>
+  .middle
+{
+  width:400px;
+  height:200px;
+  background:#ccc;
+  overflow:hidden;  
+  margin:50vh auto 0;
+  transform:translateY(-50%);
+}
+.top
+{
+  height:100px;
+  width:100px;
+  border-radius:50%;
+  background:#fc0;
+  position:relative;
+  top:-25%;
+  left:-12.5%;
+}
+.bottom
+{
+  height:100px;
+  width:100px;
+  border-radius:50%;
+  background:#fc0;
+  position:relative;
+  bottom:-25%;
+  left:87.5%;
+}
+  </style>
+  </head>
+<body>
+  <div class="middle">
+    <div class="top"></div>
+    <div class="bottom"></div>
+    </div>
+  </body>
