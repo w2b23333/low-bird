@@ -11,3 +11,5 @@ task3-2:http://htmlpreview.github.io/?https://github.com/w2b23333/low-bird/blob/
 task4：http://htmlpreview.github.io/?https://github.com/w2b23333/low-bird/blob/master/baidu-ife/task4
 
 task5：http://htmlpreview.github.io/?https://github.com/w2b23333/low-bird/blob/master/baidu-ife/task5
+
+导航条：http://htmlpreview.github.io/?https://github.com/w2b23333/js/blob/master/Navigatio/index.html
